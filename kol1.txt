@@ -1,1 +1,2 @@
 zmiana01.txt
+prostaWersja1
