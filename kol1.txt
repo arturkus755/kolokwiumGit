@@ -1,1 +1,3 @@
 zmiana01
+prostaWersja1
+prostaWersja2
