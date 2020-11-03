@@ -1,2 +1,4 @@
 zmiana02
 naprawaBledu
+zmiana2
+zmiana3
